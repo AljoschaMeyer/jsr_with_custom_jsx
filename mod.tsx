@@ -1,4 +1,4 @@
-import { Expression, Expressions } from "macromania";
+import { Expression, Expressions } from "@wormblossom/macromania";
 
 export function SomeMacro(
   { children, someProp }: { children: Expressions; someProp: boolean },

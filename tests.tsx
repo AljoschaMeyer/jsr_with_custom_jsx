@@ -1,6 +1,6 @@
 import { SomeMacro } from "./mod.tsx";
 
-import { Context } from "macromania";
+import { Context } from "@wormblossom/macromania";
 
 
 import { assertEquals } from "@std/assert";
