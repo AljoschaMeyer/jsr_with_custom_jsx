@@ -4,7 +4,7 @@
     "jsr:@aljoscha-meyer/logging-utils@1": "1.0.0",
     "jsr:@std/assert@0.221": "0.221.0",
     "jsr:@std/fmt@0.221": "0.221.0",
-    "jsr:@wormblossom/macromania@^1.0.1": "1.0.1"
+    "jsr:@wormblossom/macromania@1.0.1": "1.0.1"
   },
   "jsr": {
     "@aljoscha-meyer/logging-utils@1.0.0": {
@@ -33,7 +33,7 @@
   "workspace": {
     "dependencies": [
       "jsr:@std/assert@0.221",
-      "jsr:@wormblossom/macromania@^1.0.1"
+      "jsr:@wormblossom/macromania@1.0.1"
     ]
   }
 }
